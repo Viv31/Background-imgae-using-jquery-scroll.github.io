@@ -6,3 +6,5 @@ Technology used:
 
 It checks background height as per scroll and apply given background image using 
 jquery.
+Demo:
+https://viv31.github.io/Background-imgae-using-jquery-scroll.github.io/
